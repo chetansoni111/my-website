@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS CDN-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <title>sun pharma science foundation</title>
+	
+	<style>
+	 
+	 .heading1
+	 {
+	   text-align:center;
+	   padding:8px;
+	   background-color: #1ABC9C;
+	   color:white;
+	 }
+	 
+	 .footer
+	 {
+	   text-align:center;
+	   padding:8px;
+	   background-color:yellow;
+	   color:black;
+	 }
+	
+	</style>
+  </head>
+  
+  <body>
+  
+<!----------------Navigation section Starts From here---------------------------->
+  
+  <nav class="navbar fixed-top navbar-expand-lg navbar-black" style="background-color: #white;">
+  
+   <a class="navbar-brand" href="#">
+      <img src="img/logo.png" width="70px" height="70px" alt="">
+  </a>  
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.htm">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="about_us.htm">About us</a>
+      </li>
+	  
+	  <li class="nav-item active dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+          Awards
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="research_awards.htm">Research Awards</a>
+          <a class="dropdown-item" href="winners_awards.htm">Latest Winners of Research Awards</a>
+          <a class="dropdown-item" href="scholar_awards.htm">Scholar Awards</a>
+		  <a class="dropdown-item" href="winner_scholar.htm">Latest Winners of Scholar Awards</a>
+      
+        </div>
+      </li>
+	  
+	  <li class="nav-item active dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+          Key Activites
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="scienitific_symposium.htm">Scienitific Symposium</a>
+          <a class="dropdown-item" href="national_seminer.htm">National Seminer</a>
+          <a class="dropdown-item" href="iniviting_foreign.htm">Iniviting Foreign Scientists</a>
+		  <a class="dropdown-item" href="special_awards.htm">Special Awards in Public Helath</a>
+          <a class="dropdown-item" href="reasearch_fellowship.htm">Clinical Research Fellowship</a>
+        </div>
+      </li>
+	  
+	  <li class="nav-item active dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+          Diretory
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="award_winner.htm">Diretory-Research Awards Winners</a>
+          <a class="dropdown-item" href="science_scholar.htm">Diretory-Science Scholar</a>
+        </div>
+      </li>
+	  
+      <li class="nav-item active">
+        <a class="nav-link" href="contect_us.htm">Contact Us</a>
+      </li>
+	  
+	  <a class="btn btn-primary shadow" role="button" href="https://sunpharmasciencefoundation.net/login">Login</a>
+    </ul>
+  </div>
+</nav>
+<!---------------- Navigation section Ends From here---------------------------->
+<br><br>
+<br><br>
+<!---------------- Slider section Starts From here---------------------------->
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/111111.jpg" class="d-block" width="100%" height="585px"  alt="...">
+    <div class="carousel-caption">
+<h1>SUN PHARMA SCIENCE FOUNDATION RESEARCH AWARDS 2023</h1>
+<p>RESEARCH AWARDS 2023</p>
+    </div>
+	
+	</div>
+    <div class="carousel-item">
+      <img src="img/2.png" class="d-block" width="100%" height="585px" alt="...">
+    <div class="carousel-caption">
+<h1>SUN PHARMA SCIENCE FOUNDATION RESEARCH AWARDS 2023</h1>
+<p>RESEARCH AWARDS 2023</p>
+    </div>
+	</div>
+    <div class="carousel-item">
+      <img src="img/3.png" class="d-block" width="100%" height="585px" alt="...">
+<div class="carousel-caption">
+<h1>SUN PHARMA SCIENCE FOUNDATION RESEARCH AWARDS 2023</h1>
+<p>RESEARCH AWARDS 2023</p>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+</div>
+
+<!---------------- Slider section Ends From here---------------------------->
+<br>
+<br>
+
+<div class="container py-4 py-xl-5">
+            <div class="row gy-4 gy-md-0">
+                <div class="col-md-6">
+                    <div style="margin-right:15px;"><img class="rounded img-fluid w-100 fit-cover" style="min-height: 300px;" src="https://sunpharmasciencefoundation.net/frontend/assets/img/about.jpg"></div>
+                </div>
+                <div class="col-md-6 d-md-flex align-items-md-center">
+                    <div>
+                        <h2 class="text-capitalize fw-normal" style="color: #F7941E;"><strong>About Us</strong></h2>
+                        <p class="my-3" style="margin-bottom: 15px;">Sun Pharma Science Foundation is an independent non-profit organisation registered under the Societies Registration Act. The aim of the Foundation is to promote scientific endeavours in India by encouraging and rewarding excellence in medical and pharmaceutical sciences and to give impetus to research activity in India.</p><a class="btn btn-primary" role="button" href="https://sunpharmasciencefoundation.net/aboutus">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+	
+<!---------------- Footer section Starts  From here---------------------------->
+
+<div class="fluid-container">
+  <div class="row">
+    <div class="col-md-12 col-sm-12 col-lg-12">
+	  <h5 class ="footer"> All rights are reserved By sun pharma science foundation @ Copyrights</h5>
+    </div>
+  </div>
+</div>
+<!---------------- Footer section Ends From here---------------------------->
+	
+	
+	
+	
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+    
+  </body>
+</html>
